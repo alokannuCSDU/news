@@ -1,4 +1,4 @@
-# news# News_App
+# news
 
 Video -> https://github.com/alokannuCSDU/current_news/assets/129372288/72365c40-410a-4548-8c0c-c4f5479272d5
 
